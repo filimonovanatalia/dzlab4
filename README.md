@@ -31,7 +31,6 @@
 ## 2. Реализация программы
 #include <locale.h>
 #include <stdio.h>
-
 int main(){
     setlocale(LC_CTYPE, "RUS");
     int A, B, C;
