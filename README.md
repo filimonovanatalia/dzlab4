@@ -29,6 +29,7 @@
 <img width="242" height="742" alt="image" src="https://github.com/user-attachments/assets/163b7f54-f4de-4eca-b934-9d9c424e2505" />
 
 ## 2. Реализация программы
+```c
 #include <locale.h>
 #include <stdio.h>
 int main(){
@@ -43,7 +44,7 @@ int main(){
     !result && printf("Калибровка не удалась\n");
     return 0;
 }
-
+```
 
 
 
